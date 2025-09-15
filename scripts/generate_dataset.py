@@ -5,7 +5,7 @@ import os
 
 # --- Parameters ---
 NUM_EXAMPLES = 10000  # Isko 20000000 (2 crore) ya zyada karein final run ke liye
-FILE_PATH = "data/math_dataset.txt"
+FILE_PATH = "../data/math_dataset.txt"
 
 # --- Helper Functions ---
 
